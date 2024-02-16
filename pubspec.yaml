@@ -1,0 +1,66 @@
+name: eesa_braa
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.4 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  
+  
+  get: 
+  get_storage: 
+
+
+dev_dependencies:
+  hive_generator: ^1.1.0
+  build_runner: ^2.1.2
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  assets:
+    - assets/eesaa.jpg
+    - assets/braa.jpg
+  uses-material-design: true
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
